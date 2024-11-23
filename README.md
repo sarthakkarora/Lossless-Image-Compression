@@ -32,7 +32,7 @@ You need **MATLAB** installed on your system to run this project.
 ### Running the Code
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/enhanced-lossless-image-compression.git
+   git clone https://github.com/sarthakkarora/enhanced-lossless-image-compression.git
    ```
 2. Navigate to the project directory in MATLAB.
 3. Run the `LOSS.m` script:
